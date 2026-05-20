@@ -2,7 +2,6 @@
 
 Security Engineer focused on turning security threats into detectable signals, verifiable evidence, and automated analysis workflows.
 
-- [Portfolio](https://www.jamongsecu.com) 
 - Email : ronan1_@naver.com
 
 ## Stack
